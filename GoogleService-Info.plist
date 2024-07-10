@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDa52ZyLe0j9ddtvbI21GQH60EOVc4CFdk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>932210055038</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>davidgevorgyanDeliveryFlyDavidGevorgyan</string>
+	<key>PROJECT_ID</key>
+	<string>deliveyflydavidgevorgyan</string>
+	<key>STORAGE_BUCKET</key>
+	<string>deliveyflydavidgevorgyan.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:932210055038:ios:98a72bfbe693074912852f</string>
+</dict>
+</plist>
